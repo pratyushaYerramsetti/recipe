@@ -1,0 +1,64 @@
+*
+{
+  margin : 0px;
+  padding: 0px;
+}
+.header{
+  background-color:#8a1818;
+  background-position: center;
+  background-repeat:no-repeat;
+  width: 100%;
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  padding-bottom: 10px;
+}
+.header img{
+  margin:20px 20px;
+  float: left;
+  width: 150px;
+  height: 150px;
+  border: 5px solid skyblue;
+}
+.nav li{
+  display:inline-block;
+  list-style-type: none;
+  color: :white;
+}
+a{
+  color: white;
+  text-decoration: none;
+  padding-right: 18px;
+  padding-bottom: 25px;
+}
+.main-content{
+  background-color:white;
+  width:500px;
+  height:500px;
+  margin-left:auto;
+  margin-right:auto;
+    color:#00e6e6;
+  text-align:center;
+
+}
+.main-content{
+  background-image:url("F:\Asg3\images\stardust.png");
+  width:100%;
+  height:100%;
+}
+
+h2
+{
+  color:green;
+  text-align: center;
+
+}
+h3{
+  color:black;
+  text-align:left;
+}

@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+  }
+  header{
+    background-image:url("logo.png");
+    background-color:#8a1818;
+    background-position:center;
+    width:655px;
+    height:100px;
+    background-repeat:no-repeat;
+    color:white;
+  }
+ .main-content{
+    background-color:white;
+    width:500px;
+    height:500px;
+    margin-left:auto;
+    margin-right:auto;
+      color:#00e6e6;
+    text-align:center;
+  
+  }
+  .box2 li{
+    list-style-position:inside;
+    text-align:left;
+    margin-left:40px;
+  }
+  .box3 li{
+    list-style-position:inside;
+    text-align:left;
+      margin-left:40px;
+  
+  }
+  h1
+  {
+    color:#00e6e6;
+    text-align:center;
+  }
+  h3{
+    color:#00e6e6;
+    text-align:left;
+  }
+  section{
+    background-color:white;
+    color:black;
+  }
+  p{
+    color:white;
+    text-align:center;
+  }
+  header li
+  {
+    padding:80px 0px 0px 125px;
+    display:inline-block;
+    
+  }
+  header a
+  {
+    color:white;
+    text-decoration:none;
+  
+  }
+  main{
+    background-image:url("stardust.png");
+    width:655px;
+    height:800px;
+  }
+  .box1
+  {
+    background-color:white;
+    padding:0px;
+  }
+  
